@@ -4,5 +4,9 @@ The goal of this exercise was to create a function that takes in a string of one
 Examples:
 
 spinWords( "Hey fellow warriors" ) => returns "Hey wollef sroirraw"
+
+
 spinWords( "This is a test") => returns "This is a test"
+
+
 spinWords( "This is another test" )=> returns "This is rehtona test"
